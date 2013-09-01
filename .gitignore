@@ -15,3 +15,14 @@
 *.exe
 *.out
 *.app
+#my edit
+*.rej
+*.orig
+*.su
+*~
+*.swp
+*.patch
+*.bin
+
+# Build tree
+/build-*
